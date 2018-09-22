@@ -1,2 +1,2 @@
-# timguo.github.io
+# timidthyg.github.io
 Tim's Personal Website
